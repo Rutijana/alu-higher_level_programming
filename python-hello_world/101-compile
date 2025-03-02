@@ -2,7 +2,7 @@
 import os
 import py_compile
 
-# Get the Python file name from the environment variable
+# Retrieve the Python file name from the environment variable
 pyfile = os.getenv('PYFILE')
 
 if pyfile:
