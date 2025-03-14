@@ -1,5 +1,5 @@
-
 #!/usr/bin/python3
+#Defining the class Student
 """Module defining the class Student based on 10-student.py"""
 
 
